@@ -1,14 +1,14 @@
 # PM Context
 
-- Role: [FILL IN]
-- Company: [FILL IN]
-- Product: [FILL IN]
-- Target users: [FILL IN]
-- Current focus: [FILL IN]
-- Primary metric: [FILL IN]
-- Guardrails: [FILL IN]
-- OKRs: [FILL IN]
-- Terminology: [FILL IN]
+- Role: Product Manager
+- Company: Retail Insight
+- Product: InventoryInsight
+- Target users: Store associates, supply chain, inventory managers, store opertations
+- Current focus: inventory management
+- Primary metric: 
+- Guardrails: 
+- OKRs: 
+- Terminology: 
 
 ---
 
